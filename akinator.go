@@ -19,7 +19,7 @@ const (
 )
 
 // Domain info
-const domainURL = "http://en.akinator.com"
+const domainURL = "http://cn.akinator.com"
 
 // Client is used for each session with the Akinator.
 type Client struct {
